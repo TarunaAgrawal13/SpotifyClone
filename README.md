@@ -33,6 +33,6 @@ Integrate Spotify API
 Add authentication system
 Create dynamic playlists
 Add dark/light mode toggle
-Author
 
+Author
 Created by Taruna Agrawal 🚀
